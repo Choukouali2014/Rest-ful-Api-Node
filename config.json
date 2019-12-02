@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://<username>:<password>@xxxxx-xrshf.mongodb.net/test?retryWrites=true&w=majority",
+    "secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
